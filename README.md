@@ -1,2 +1,7 @@
-# Predicting-Employee-Attrition-in-the-Era-of-The-Big-Quit-
-Predicting Employee Attrition in the Era of “The Big Quit”
+# Predicting Employee Attrition in the Era of “The Big Quit”
+
+In this group project, we look at an employee dataset published by IBM and aim to identify which employees are at risk of quitting. We conduct an analysis of the push factors that drive an employee to leave the company and consequently provide insights to the business leaders on effective countermeasures for employee retention such as enhancing monetary incentives, improving working environment, and raising employee engagement. It is not only about knowing what to do but also who to target for each change plan. The whole dataset consists of 1470 data points on employees’ attrition behaviour and 34 related features which serve as candidates for predictor variables - reasons that employees leave the company in this case. 
+
+We start with an exploratory data analysis to examine attrition distribution by a range of characteristics and detect those most correlated with the leaving decision. Then, we propose usage of **classification algorithms, Logistic Regression, Support Vector Machines, Random Forest, and Gradient Boosting** for prediction of attrition. After that, we evaluate the adopted models and report the results of the analysis and prediction using selected performance metrics such as recall, balanced accuracy and AUC. Finally, the report will be concluded with an overview of improvements and challenges worth consideration for future studies.
+
+[Link to Jupyter Notebook](./DBA5106%20Group28%20-%20Code.ipynb)  
